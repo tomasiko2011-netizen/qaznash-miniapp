@@ -1,0 +1,117 @@
+{
+  "/Users/guldana/Documents/New project/qaznash-miniapp/eslint.config.mjs": {
+    "mtime": 1773749363.397325,
+    "ast_hash": "5734c7b6e7eb18770a4801916265402e",
+    "semantic_hash": "5734c7b6e7eb18770a4801916265402e"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/next-env.d.ts": {
+    "mtime": 1773749430.6352525,
+    "ast_hash": "2a74d3909800ca5467fa83b0ab4a4890",
+    "semantic_hash": "2a74d3909800ca5467fa83b0ab4a4890"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/next.config.ts": {
+    "mtime": 1773749463.9918432,
+    "ast_hash": "ca881c2a57945ceed68388c4eade0374",
+    "semantic_hash": "ca881c2a57945ceed68388c4eade0374"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/package.json": {
+    "mtime": 1773749363.3827584,
+    "ast_hash": "a41ab4d4f1336e392af71b18cf26c447",
+    "semantic_hash": "a41ab4d4f1336e392af71b18cf26c447"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/postcss.config.mjs": {
+    "mtime": 1773749363.3942854,
+    "ast_hash": "0f8aa602547b154dc06be77b007c51d2",
+    "semantic_hash": "0f8aa602547b154dc06be77b007c51d2"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/api/auth/session/route.ts": {
+    "mtime": 1773753187.8473015,
+    "ast_hash": "f55427a6d73ee5f7fa4d0508ce725c1f",
+    "semantic_hash": "f55427a6d73ee5f7fa4d0508ce725c1f"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/api/auth/telegram/route.ts": {
+    "mtime": 1773753187.841623,
+    "ast_hash": "9e8ebd3b792bdc4dae95fcc225400a69",
+    "semantic_hash": "9e8ebd3b792bdc4dae95fcc225400a69"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/api/status/access/route.ts": {
+    "mtime": 1773762102.7047362,
+    "ast_hash": "0d3b4a49a0254e965c1d401e8fd9dc07",
+    "semantic_hash": "0d3b4a49a0254e965c1d401e8fd9dc07"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/auth/page.tsx": {
+    "mtime": 1773768193.0802622,
+    "ast_hash": "27ac01342a47b3b3e2d62125b0f5e9af",
+    "semantic_hash": "27ac01342a47b3b3e2d62125b0f5e9af"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/demo/page.tsx": {
+    "mtime": 1773761629.6835139,
+    "ast_hash": "72fcbfba62a1c6bc29712c92bdfb8dae",
+    "semantic_hash": "72fcbfba62a1c6bc29712c92bdfb8dae"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/layout.tsx": {
+    "mtime": 1773749363.405446,
+    "ast_hash": "6669dde2f688b94ddb609264f63454d0",
+    "semantic_hash": "6669dde2f688b94ddb609264f63454d0"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/page.tsx": {
+    "mtime": 1773768193.0799422,
+    "ast_hash": "b4cee18bbcec220d85fa428b4256cbc7",
+    "semantic_hash": "b4cee18bbcec220d85fa428b4256cbc7"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/pricing/page.tsx": {
+    "mtime": 1773761629.6836617,
+    "ast_hash": "5466d8a4e2e7fd17d3ac9279bd780f02",
+    "semantic_hash": "5466d8a4e2e7fd17d3ac9279bd780f02"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/app/status/page.tsx": {
+    "mtime": 1773755681.0556464,
+    "ast_hash": "1fb764f9b5b9f133262f3da87e0f4286",
+    "semantic_hash": "1fb764f9b5b9f133262f3da87e0f4286"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/components/nav.tsx": {
+    "mtime": 1773755799.766559,
+    "ast_hash": "278e0f9a93f3a95ca4bb9ee2ec29de69",
+    "semantic_hash": "278e0f9a93f3a95ca4bb9ee2ec29de69"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/components/page-shell.tsx": {
+    "mtime": 1773749363.413646,
+    "ast_hash": "b6b111442b8bf6fd658ec4b56ccb02b8",
+    "semantic_hash": "b6b111442b8bf6fd658ec4b56ccb02b8"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/components/telegram-auth-card.tsx": {
+    "mtime": 1773768193.0791652,
+    "ast_hash": "724ecbd03647f3d11d11a99261b8863b",
+    "semantic_hash": "724ecbd03647f3d11d11a99261b8863b"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/components/telegram-status-card.tsx": {
+    "mtime": 1773768193.0797255,
+    "ast_hash": "ef25decddc93080281490ea37d3406c4",
+    "semantic_hash": "ef25decddc93080281490ea37d3406c4"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/src/lib/telegram-auth.ts": {
+    "mtime": 1773768193.0794933,
+    "ast_hash": "40a74de5f7d47384bba4035286fdc6b4",
+    "semantic_hash": "40a74de5f7d47384bba4035286fdc6b4"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/tsconfig.json": {
+    "mtime": 1773749430.6332057,
+    "ast_hash": "ab158c19f221f4dcf1d7c3b20719569b",
+    "semantic_hash": "ab158c19f221f4dcf1d7c3b20719569b"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/vercel.json": {
+    "mtime": 1773749363.400166,
+    "ast_hash": "00535626cc43c9c63143d5c4911f78cd",
+    "semantic_hash": "00535626cc43c9c63143d5c4911f78cd"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/.github/workflows/ci.yml": {
+    "mtime": 1774945182.7829752,
+    "ast_hash": "dbd3b89926b86b4451b9a273c0a8f2cf",
+    "semantic_hash": "dbd3b89926b86b4451b9a273c0a8f2cf"
+  },
+  "/Users/guldana/Documents/New project/qaznash-miniapp/README.md": {
+    "mtime": 1773749463.9921625,
+    "ast_hash": "80e0f7a5f40f43d238219200573d3444",
+    "semantic_hash": "80e0f7a5f40f43d238219200573d3444"
+  }
+}
